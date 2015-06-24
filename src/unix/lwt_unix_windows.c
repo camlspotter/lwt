@@ -562,3 +562,7 @@ LWT_NOT_AVAILABLE1(unix_getpwnam_job)
 LWT_NOT_AVAILABLE1(unix_getgrnam_job)
 LWT_NOT_AVAILABLE1(unix_getpwuid_job)
 LWT_NOT_AVAILABLE1(unix_getgrgid_job)
+
+LWT_NOT_AVAILABLE2(unix_wait4)
+LWT_NOT_AVAILABLE5(unix_bytes_recvfrom)
+
